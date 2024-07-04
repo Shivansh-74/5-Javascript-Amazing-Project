@@ -1,0 +1,20 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    /* width: 100%; */
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+.main{
+    scale: 1.7;
+}
+table
+{
+    box-shadow: 10px 10px  20px rgb(187, 187, 187);
+
+}
+td{
+    padding: 20px;
+}
